@@ -1,0 +1,26 @@
+{
+"name": "snowfallanimation-yuvraj",
+"version": "1.0.0",
+"description": "snowfall animation test.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/YUVRAJ8/SnowfallAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "YUVRAJ8",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
